@@ -7,3 +7,7 @@ So far it can get the solution for today, yesterday, and tomorrow from the inter
 2) !get_today to print today's solution to console
 3) !get_yesterday to do the same for yesterday's
 4) !get_tomorrow for tomorrow's solution
+
+In this push, I made it do a PROLOG query to get the "friends of 'John'" which really just means "do variables in ruby move to prolog?" 
+
+The answer is yes, they do.
